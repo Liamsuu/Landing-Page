@@ -124,6 +124,7 @@ body {
   min-height: 250px;
   gap: 30px;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .ill-info {
