@@ -18,3 +18,6 @@ Photo by Pratikxox: https://www.pexels.com/photo/heap-of-golden-coins-3222685/
 Photo by cottonbro studio from Pexels: https://www.pexels.com/photo/a-person-carrying-a-casket-10484349/
 
 Photo by Brett Sayles: https://www.pexels.com/photo/selective-focus-photography-of-tombstone-1121906/
+
+Disclaimer:
+Olbert Einstein is a person of fiction, and has no affiliation with anyone. Any correlation with anyone is purely coincidental.
