@@ -54,6 +54,19 @@ body {
   align-items: center;
   justify-content: center;
   background-color: red;
+  /* width: 549.500px; */
+  /* uncomment this to get a good width, perhaps slightly larger may be better. */
+}
+
+.hero-content h1 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: bolder;
+}
+
+.hero-content p {
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 .hero-image {
@@ -62,4 +75,10 @@ body {
   background-color: aqua;
   justify-content: center;
   align-items: center;
+}
+
+.hero-image img {
+  max-height: 250px;
+  flex-shrink: 1;
+  padding: 50px;
 }
