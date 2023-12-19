@@ -10,6 +10,7 @@ What this project accomplishes:
 - Confidence using Git, Github, HTML, and CSS
 
 Image credit:
+
 Photo by Andrea Piacquadio: https://www.pexels.com/photo/positive-senior-man-in-eyeglasses-showing-thumbs-up-and-looking-at-camera-3824771/
 
 Photo by Pratikxox: https://www.pexels.com/photo/heap-of-golden-coins-3222685/

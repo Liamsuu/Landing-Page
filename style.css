@@ -4,7 +4,7 @@
 }
 
 body {
-  height: 100vh;
+  height: 200vh;
   display: flex;
   flex-direction: column;
 }
@@ -147,4 +147,41 @@ body {
   flex-wrap: wrap;
   text-align: center;
   color: #1f2937;
+}
+
+.quote-container {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e7eb;
+  height: 400px;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-para-container {
+  display: flex;
+  height: fit-content;
+  width: 600px;
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+  margin-left: 40px;
+}
+
+.quote-person {
+  font-size: 28px;
+  font-weight: bolder;
+  margin-left: 200px;
+}
+
+footer {
+  display: flex;
+  margin-top: auto;
+  background-color: #1f2937;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  color: #e5e7eb;
 }
