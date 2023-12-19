@@ -50,11 +50,10 @@ body {
 
 .hero-content {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  /* flex-direction: column; */
   justify-content: center;
-  background-color: red;
-  /* width: 549.500px; */
+  background-color: #1f2937;
+  width: 700px;
   /* uncomment this to get a good width, perhaps slightly larger may be better. */
 }
 
@@ -72,7 +71,7 @@ body {
 .hero-image {
   display: flex;
   flex-grow: 1;
-  background-color: aqua;
+  background-color: #1f2937;
   justify-content: center;
   align-items: center;
 }
@@ -81,4 +80,21 @@ body {
   max-height: 250px;
   flex-shrink: 1;
   padding: 50px;
+}
+
+.hero-sizing {
+  display: flex;
+  flex-direction: column;
+  min-height: 500px;
+  justify-content: center;
+}
+
+.hero-sizing button {
+  width: 100px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.hero-sizing p {
+  margin-bottom: 20px;
 }
